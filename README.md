@@ -1,0 +1,1 @@
+AI agents built with OpenAI's 'Assistants' framework, showcasing synchronous and asynchronous communication for file processing, leveraging methods like assistants, vector stores, and threads to enhance efficiency and collaboration.
